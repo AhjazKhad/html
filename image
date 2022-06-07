@@ -1,0 +1,124 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+<div id="page-wrapper">
+    <header id="header">
+        <div class="logo">
+            <img id="header-img" src="https://th.bing.com/th/id/R49cdb88e2ac361b9211f2b997a9b5069?rik=R%2bxiBj%2b809KeVA&riu=http%3a%2f%2fbozdar.com%2fwp-content%2fuploads%2f2019%2f03%2fDholak.jpg&ehk=aCXfnRAA9OjXuc%2bKK%2fXU3F6DzoRyQYvmMROfgMkBhMU%3d&risl=&pid=ImgRaw"
+                alt="original Dolak logo" />
+        </div>
+
+        <nav id="nav-bar">
+            <ul>
+                <li><a class="nav-link" href="#features" style="color:	#FF1493">Home</a></li>
+                <li><a class="nav-link" href="#how-it-works" style="color:	#FF1493">How It Works</a></li>
+                <li><a class="nav-link" href="#pricing" style="color:	#FF1493">Pricing</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <div class="container"></div>
+
+    <section id="hero">
+        <h2 style="color:#BA55D3">Handcrafted, home-made masterpieces</h2>
+        <div style="background-color:pink;width:100%;box-shadow: 5px 10px #888888;">
+            <form id="form" action="https://www.freecodecamp.com/email-submit">
+                <input name="email" id="email" type="email" placeholder="Enter your email address" required style="color:pink" />
+                <input id="submit" type="submit" value="Get Started" class="btn" />
+            </form>
+        </div>
+    </section>
+    <div class="container">
+        <section id="features">
+            <div class="grid">
+                <div class="icon"><i class=""></i></div>
+                <div class="desc" style="width:50%">
+                    <div>
+                    </div>
+                    <div id="flip-box">
+                        <div id="flip-container">
+                            We are
+                            <div id=flip-text>
+                                <div>
+                                    <div>passionate</div>
+                                </div>
+                                <div>
+                                    <div>creative</div>
+                                </div>
+                                <div>
+                                    <div>hand made</div>
+                                </div>
+                            </div>
+                            dolak
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
+<div class="grid">
+    <div class="icon"><i class=""></i></div>
+    <div class="desc">
+        <h2>Hand made</h2>
+        <p style="color:gray">
+
+            Dholak<br> The dholak is a two-headed hand-drum from the Indian subcontinent.<br> It may have traditional cotton rope lacing, screw-turnbuckle tensioning or both combined: <br>in the first case steel rings are used for tuning or pegs are twisted
+            inside the laces.<br>
+
+        </p>
+
+    </div>
+
+</div>
+
+</section>
+<section id="how-it-works" style="align:center">
+    <iframe id="video" height="315" src="https://www.youtube.com/embed/1SVhAtpil98" frameborder="0" allowfullscreen></iframe>
+</section>
+<section id="pricing" style=" width:100%;
+    background-color:pink; display:flex;">
+    <div class="product" id="tenor">
+        <div class="level">Dolak</div>
+        <h2>$600</h2>
+        <ol>
+            <li>each week.</li>
+            <li> each week.</li>
+            <li> dolor.</li>
+            <li>each week.</li>
+        </ol>
+        <button class="btn">Select</button>
+    </div>
+    <div class="product" id="bass">
+        <div class="level">Bass Dolak</div>
+        <h2>$900</h2>
+        <ol>
+            <li>Lorem ipsum.</li>
+            <li>Lorem ipsum.</li>
+            <li>Lorem ipsum dolor.</li>
+            <li>Lorem ipsum.</li>
+        </ol>
+        <button class="btn">Select</button>
+    </div>
+    <div class="product" id="valve">
+        <div class="level">Valve Dolak</div>
+        <h2>$1200</h2>
+        <ol>
+            <li>Plays similar to a Trumpet</li>
+            <li>Great for Jazz Bands</li>
+            <li>Lorem ipsum dolor.</li>
+            <li>Lorem ipsum.</li>
+        </ol>
+        <button class="btn">Select</button>
+    </div>
+</section>
+<footer>
+    <ul>
+        <li><a href="#">Privacy</a></li>
+        <li><a href="#">Terms</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+    <span>Copyright 2016, Original Dolak</span>
+</footer>
+</div>
+</div>
+
+</html>
